@@ -6,13 +6,7 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/com.genuitec.embedded.tomcat.runtime.v70">
-		<attributes>
-			<attribute name="owner.project.facets" value="jst.web"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/Nitish/Desktop/commons-logging-1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/spring-aspects-4.1.5.RELEASE.jar"/>
 	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.me4s/apache.commons.beanutils_1.8.3">
 		<attributes>
@@ -99,5 +93,10 @@
 	<classpathentry kind="lib" path="C:/Users/Nitish/Desktop/spring-framework-4.1.5.RELEASE-dist/libs/spring-aop-4.1.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nitish/Desktop/spring-framework-4.1.5.RELEASE-dist/libs/spring-beans-4.1.5.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nitish/Desktop/spring-framework-4.1.5.RELEASE-dist/libs/spring-core-4.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Lone Trek/jstl-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/com.genuitec.embedded.tomcat.runtime.v70"/>
+	<classpathentry kind="lib" path="C:/Users/Nitish/Desktop/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Lone Trek/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>

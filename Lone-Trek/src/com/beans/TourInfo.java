@@ -7,7 +7,7 @@ public class TourInfo {
 	private String name;
 	private String origin;
 	private String destination;
-	private Date date;
+	private String date;
 	private String focusOfTour;
 	private String allowedPeople;
 	public String getName() {
@@ -28,10 +28,11 @@ public class TourInfo {
 	public void setDestination(String destination) {
 		this.destination = destination;
 	}
-	public Date getDate() {
+
+	public String getDate() {
 		return date;
 	}
-	public void setDate(Date date) {
+	public void setDate(String date) {
 		this.date = date;
 	}
 	public String getFocusOfTour() {
